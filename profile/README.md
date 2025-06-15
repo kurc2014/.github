@@ -10,7 +10,7 @@ This space serves as a centralized hub for:
 - Facilitating collaboration and knowledge sharing among members.  
 
 ## **Get Involved**  
-If you're working on a KURC project involving programming, please share your GitHub profile to pranshubikram@gmail.com to be added as a contributor. Together, we can build and grow!  
+If you're working on a KURC project involving programming, please share your GitHub profile to kurc@ku.edu.np to be added as a contributor. Together, we can build and grow!  
 
 ## **Content**  
 - **Workshops:** Code and resources from KURC workshops.  
