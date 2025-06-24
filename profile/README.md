@@ -1,4 +1,4 @@
-Welcome to the official GitHub organization of Kathmandu University Robotics Club (KURC)! 🎉  
+Welcome to the official GitHub organization of Kathmandu University Robotics Club (KURC) 
 
 ## **About Us**  
 KURC is a community of students and innovators dedicated to advancing robotics, automation, and technology through hands-on projects, workshops, and research.  
@@ -28,4 +28,4 @@ If you're working on a KURC project involving programming, please share your Git
 
 For any questions or to join as a contributor, feel free to reach out via email or through the KURC members' group.  
 
-Let’s innovate and create together! 🚀
+Let’s innovate and create together
